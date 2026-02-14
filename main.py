@@ -44,6 +44,7 @@ def main():
     plt.legend()
     plt.title("Momentum Rotation Backtest")
     plt.tight_layout()
+    plt.savefig("momentum_backtest.png", dpi=300)
     plt.show()
 
 if __name__ == "__main__":
