@@ -7,3 +7,6 @@ SPY(S&P 500 ETF, equities)
 TLT(20+ Year U.S. Treasury Bond ETF, long-term bonds) 
 The objective is to evaluate whether rotating between risk-on and risk-off assets based on recent relative performance can improve risk-adjusted returns compared to a passive buy-and-hold approach. 
 
+# Backtest Result
+
+![Momentum Backtest](momentum_backtest.png)
